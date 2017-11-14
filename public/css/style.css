@@ -1,0 +1,57 @@
+body {
+    font-family: 'Cormorant SC', serif;
+}
+
+body p {
+    font-size: 1.5rem;
+}
+
+form input {
+    text-align: center;
+}
+
+#hotels a, .email-link {
+    color: #00004c;
+    text-decoration: underline;
+}
+
+.btn-primary {
+    background-color: #00004c;
+    border-color: #00004c;
+}
+
+.home-banner {
+    background: -moz-linear-gradient(left, rgba(255,255,255,.5) 0%, rgba(255,255,255,0) 50%), url('/images/home-banner.jpg') no-repeat;
+    background: -webkit-linear-gradient(left, rgba(255,255,255,.5) 0%,rgba(255,255,255,0) 50%), url('/images/home-banner.jpg') no-repeat;
+    background: linear-gradient(to right, rgba(255,255,255,.5) 0%,rgba(255,255,255,0) 50%), url('/images/home-banner.jpg') no-repeat;
+    height: 100vh;
+    align-items:center;
+    background-size: cover;
+}
+
+.logo-text {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5rem;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+.text-white {
+    color: white;
+}
+
+.container, .container-fluid {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.carousel-item img {
+    max-height: 80vh;
+    object-fit: contain;
+}
