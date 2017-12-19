@@ -214,9 +214,13 @@
     <div class="container-fluid text-white text-center" id="registry" style="background-color: #bd8783;">
         <div class="row">
             <div class="col col-md-6 offset-md-3">
-                <h2 class="display-4">Gift Registry</h2>
+                <a href="https://www.zola.com/registry/maxandlizzy" style="color: white;">
+                    <h2 class="display-4">Gift Registry</h2>
+                </a>
                 <p>
-                    Coming soon.
+                    <a href="https://www.zola.com/registry/maxandlizzy" style="color: white;">
+                        Visit our Gift Registry on Zola.
+                    </a>
                 </p>
             </div>
         </div>
