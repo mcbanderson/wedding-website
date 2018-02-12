@@ -75,7 +75,7 @@
                 </p>
                 <p id="info-right-2">
                     April 14th, 2018<br />
-                    4:00pm (Tentative)<br />
+                    4:30pm<br />
                     Dinner and Reception to follow
                 </p>
             </div>
@@ -107,14 +107,15 @@
             </div>
             <div class="col-md-4">
                 <h3>
-                    <a href="https://www.larkspurhotels.com/folsom/">
+                    <a href="https://gc.synxis.com/rez.aspx?Hotel=11163&Chain=5175&arrive=4/11/2018&depart=4/17/2018&adult=1&child=0&group=041418HEAN">
                         Larkspur Landing Folsom
                     </a>
                 </h3>
                 <p>
                     Phone: (916) 355-1616<br />
-                    For the group rate at Larkspur Landing, you must call the
-                    hotel and request the group rate for <em>Hendrix Anderson Wedding</em>.
+                    For the group rate at Larkspur Landing, click the link
+                    above, or call the hotel and request the group rate for
+                    <em>Hendrix Anderson Wedding</em>.
                 </p>
             </div>
         </div>
