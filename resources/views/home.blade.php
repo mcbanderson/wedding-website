@@ -254,6 +254,32 @@
         </div>
     </div>
 
+    <div class="container-fluid text-white" id="transportation" style="background-color: #00004c;">
+        <div class="row">
+            <div class="col-md-6 offset-md-3 text-center">
+                <h2 class="display-4">Transportation</h2>
+                <p>
+                    <em>To the venue:</em> There is parking at the Flower Farm
+                    if you want to drive, but we encourage anyone who wants to
+                    party without worries to take the complimentary bus to and
+                    from the wedding venue. The bus will depart promptly at
+                    3:30pm from the Hilton Garden Inn (Please note: if you are
+                    staying at the Larkspur Landing, you will need to walk over
+                    to the Hilton Garden --it's just across the parking lot-- to
+                    catch the bus, because it will NOT stop in front of the
+                    Larkspur Landing Hotel.)  If you decide to drive or take a
+                    Lyft, expect the drive to take about 25 minutes; it will
+                    take closer to 45 minutes by bus.
+                </p>
+                <p>
+                    <em>After the wedding:</em> The bus will make two return
+                    trips to the hotel: 9:30 pm and 11:15 pm. If you prefer, you
+                    can take Lyft back.
+                </p>
+            </div>
+        </div>
+    </div>
+
     <div class="modal" id="myModal" tabindex="-1" role="dialog">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
